@@ -4,12 +4,13 @@
 
 ## 📚 Версии
 
-| Версия | Ссылка |
-|---|---|
-| **Деловой пёс** (актуальная) — ребренд, дизайн-система Carbon Wasabi, новые фото | https://volkoovv.github.io/udc-presentation/delovoy-pes/ |
-| Urban Dog Club (эта, архивная) | https://volkoovv.github.io/udc-presentation/ |
+| Версия | Для кого | Ссылка |
+|---|---|---|
+| **Деловой пёс** — полная, с экономикой | инвесторы, партнёры | https://volkoovv.github.io/udc-presentation/delovoy-pes/ |
+| **Деловой пёс — для команды** — без финансовых показателей | найм, онбординг, команда | https://volkoovv.github.io/udc-presentation/delovoy-pes-team/ |
+| Urban Dog Club (эта, архивная) | — | https://volkoovv.github.io/udc-presentation/ |
 
-Описание новой версии — в [`delovoy-pes/README.md`](delovoy-pes/README.md). Ниже — документация архивной деки.
+Описание версий — в [`delovoy-pes/README.md`](delovoy-pes/README.md) и [`delovoy-pes-team/README.md`](delovoy-pes-team/README.md). Ниже — документация архивной деки.
 
 ## 👀 Смотреть
 
