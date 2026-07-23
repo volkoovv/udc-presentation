@@ -2,6 +2,15 @@
 
 Интерактивная презентация проекта **Urban Dog Club** — городского клуба дневного ухода с передержкой (Екатеринбург, пилот 2026).
 
+## 📚 Версии
+
+| Версия | Ссылка |
+|---|---|
+| **Деловой пёс** (актуальная) — ребренд, дизайн-система Carbon Wasabi, новые фото | https://volkoovv.github.io/udc-presentation/delovoy-pes/ |
+| Urban Dog Club (эта, архивная) | https://volkoovv.github.io/udc-presentation/ |
+
+Описание новой версии — в [`delovoy-pes/README.md`](delovoy-pes/README.md). Ниже — документация архивной деки.
+
 ## 👀 Смотреть
 
 **Живая версия:** https://volkoovv.github.io/udc-presentation/
