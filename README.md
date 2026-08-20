@@ -6,9 +6,14 @@
 
 | Версия | Ссылка |
 |---|---|
-| **Деловой пёс** — общая презентация проекта | https://volkoovv.github.io/udc-presentation/delovoy-pes/ |
-| **Деловой пёс — для команды** | https://volkoovv.github.io/udc-presentation/delovoy-pes-team/ |
+| **Деловой пёс v8 — для инвестора** (актуальная, август 2026) | https://volkoovv.github.io/udc-presentation/investor/ |
+| Деловой пёс — общая презентация проекта (v7, июль 2026) | https://volkoovv.github.io/udc-presentation/delovoy-pes/ |
+| Деловой пёс — для команды | https://volkoovv.github.io/udc-presentation/delovoy-pes-team/ |
 | Urban Dog Club (эта, архивная) | https://volkoovv.github.io/udc-presentation/ |
+
+Актуальную деку отправляем инвестору по первой ссылке — 20 слайдов, десктоп
+и телефон в одном файле, без внешних зависимостей. Подробности — в
+[`investor/README.md`](investor/README.md).
 
 Ниже — документация архивной деки.
 
